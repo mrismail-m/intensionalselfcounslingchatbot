@@ -1,0 +1,2413 @@
+export const KB_TEXT = `
+--- URL: https://www.intentionalselfcounseling.org/ ---
+Intentional Self Counseling, Coaching & Consultation
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Counseling,
+Coaching & Consultation
+St. Paul, MN • Online
+Book A Session
+Mental health
+counseling in Minnesota
+At Intentional Self, our team of dedicated and compassionate therapists is here to support your mental health journey. We understand that seeking help is a courageous step, and we're committed to providing a safe, welcoming environment where you can heal, grow, and thrive.
+OUR THERAPISTS
+Qualified
+mental health
+professionals.
+Our highly skilled therapists specialize in a range of therapeutic modalities to address diverse mental health needs. From anxiety and depression to relationship issues and trauma, our experts are trained and equipped with the knowledge and experience to guide you toward emotional well-being. Each therapist at Intentional Self brings a unique background and approach, ensuring you find the right match for your specific needs.
+MEET THE TEAM
+OUR LOCATION
+We have a lovely space to
+grow .
+We provide a warm and colorful space in St. Paul, MN to welcome you in. If coming to our location does not fit your schedule, we offer telehealth appointments.
+LEARN
+MORE
+Areas of
+Expertise
+Trauma
+We offer specialized therapy to help individuals heal from traumatic experiences and regain a sense of safety and well-being.
+Anxiety
+Our focus is on managing and reducing symptoms, empowering you to lead a more peaceful and balanced life.
+Depression
+We provide compassionate individualized care for depression to foster healing.
+Dual Diagnosis
+Our team consists of therapists specialized in providing dual diagnosis treatment, addressing both mental health and substance use simultaneously.
+Adolescents
+We provide therapy tailored specifically for adolescents, addressing their unique mental health and developmental needs.
+Relationships
+Whether you're facing conflicts, communication issues, or just want to strengthen your connection, we provide the guidance to build healthier, more fulfilling relationships.
+Neurodivergence
+Our providers understand the complexities and need for supportive systems, structures, and skillsets to support clients with ASD and ADHD.
+Grief and Loss
+When it all feels like too much to move forward, we are here to support you through the toughest moments in life.
+Holistic
+We are big believers in a whole-person approach to wellness. Along with counseling, we might suggest supplemental care related to nutrition, meditation, medication, and other practices to support your mental health and overall well-being.
+LET’S CHAT
+Get in touch
+today .
+To help us understand your needs and match you with the right therapist, please fill out the contact form as thoroughly as possible.
+Book A Session
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/contact-us ---
+Contact — Intentional Self Counseling
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+GET STARTED
+Request an
+appointment
+Click the button below and fill out the form to contact us. We’ll get back to you within one business days.
+Request appointment
+Do you take insurance?
+We are in network with Blue Cross Blue Shield, Health Partners, Preferred One, Ucare, Medical Assistance, Tricare, Cigna, Aetna, Hennepin Health, and South Country Health Alliance. A few of our providers take United Healthcare, Medica, and Tricare.
+Please contact your insurance provider prior to the first session to verify coverage levels. Clients should ask their insurance provider if they have a copay, coinsurance, or are in a deductible so that all cost information is understood prior to the start of therapy.
+What should I know about billing and payment for services?
+You are responsible for knowing your insurance benefits and for payment of services. We require a 24-hour notice for cancellations; otherwise, a fee may be charged. We retain a credit card on file for missed appointments, copays, and other charges.
+What if I do not have insurance?
+We believe everyone should have access to high quality and affordable therapeutic services. If you do not have insurance coverage or prefer not to use insurance, the self-pay rate is \$165, but negotiable with each provider. Please ask your provider for their self-pay range as each provider determines their out-of-pocket rate. We use a secure payment technology to process out-of-pocket payments with a credit card.
+What are your fees for supervision, coaching, consultation, and employee assistance?
+Clinical supervision fees
+We provide individual or dyad supervision for \$60 per hour and group supervision for up to six clinicians for \$30 per hour.
+Coaching, Consultation, and Employee Assistance Program fees
+Fees are either per hour or total 'project.' Fees are negotiated based on expected hours and scope. We invoice our clients and also use a secure technology to process credit card payments.
+How do I get started?
+Phone or Email
+Please contact a provider directly using the phone number or email listed by their photo and biography.
+Inquiry form
+If you’d like to learn more about us, use the “Request Appointment” link above to send an electronic inquiry to our staff. We only ask for a little bit of information in an effort to protect privacy. A staff member will call or text you typically within one business day. Thank you!
+What is the goal of therapy at Intentional Self Counseling?
+Our goal is to help you work through life's challenges that may be disrupting your ability to function and live more fully. We provide information to help you make informed decisions about the therapy options available to you. As a client, you are expected to take an active role in your therapy.
+What types of therapy are offered at Intentional Self Counseling?
+We offer individual therapy, family therapy, and group therapy. Counseling can be done on its own or in conjunction with psychotropic medication. If outpatient counseling isn't sufficient, we may recommend a High Intensity Outpatient Program (HIOP) and/or other therapeutic services and resources.
+What are the risks and benefits of therapy?
+Therapy may involve discussing uncomfortable emotions, which can lead to increased symptoms before improvement is seen. However, benefits can include improved coping skills, better daily functioning, enhanced relationships, greater understanding of personal values and goals, and overall life satisfaction.
+What is the scope of services provided, and how long does therapy typically last?
+We provide outpatient mental health counseling by independently licensed professionals or supervised practitioners. Sessions are typically 45 to 60 minutes long and are held weekly or biweekly. A diagnostic evaluation is completed at the first or second session to help guide treatment planning.
+How is the decision made to end therapy?
+You and your provider will determine together when it's time to transition out of counseling. You have the right to withdraw from therapy at any time. If you discontinue services, please notify your provider.
+Do you offer telehealth services, and what are the risks?
+Yes, we offer telehealth services through platforms like Doxy, Zoom, and Therapy Notes. Risks may include communication distortions, technical disruptions, and difficulties in managing emergencies. If telehealth is not suitable, alternative resources will be provided.
+How is therapy for minors handled?
+Minors (under 18) require consent from a parent or guardian for therapy. Parents/guardians have legal access to records. We aim to maintain a trusting relationship with minor clients while involving parents/guardians as needed for safety and support.
+How does family and couples counseling work?
+Family counseling can involve couples, parents, and children. One individual is identified as the “client” who must qualify for a mental health diagnosis. Confidentiality considerations when working with two or more individuals in a session will be discussed as part of the informed consent process during the intake session.
+How is confidentiality handled, and what are the exceptions?
+Confidentiality is strictly maintained, but there are exceptions, such as court orders, emergencies, or threats of harm.
+What should I do in case of a mental health crisis?
+Our providers are not available for crisis services. If you are in crisis, call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) or text HOME to 741741. In a life-threatening emergency, call 911 or go to the nearest emergency room.
+How do you use social media and electronic communication?
+We may use social media for advertising, but clients are not obligated to interact via these platforms. For privacy reasons, we advise against using electronic communication for sensitive matters unless you are comfortable with the potential risks.
+How are requests for information or services outside of therapy sessions handled?
+We charge for any time, information, or reports requested outside of therapy sessions, especially for legal or administrative proceedings. The rate is \$500 for less than 4 hours and \$1,000 for 4 or more hours.
+Frequently
+Asked
+Questions
+Our
+Locations
+St. Paul, Minnesota
+1619 Dayton Ave #112, St. Paul, MN 55104
+and
+Telehealth
+Providing care remotely through secure telehealth sessions.
+Our
+space .
+We believe that being in a calm, yet energizing space is important for creating movement and perspective. Our offices are warm, bright, and full of color. We offer water, tea, and coffee to help you relax, refresh, and enjoy the space and our sessions even more.
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/counseling ---
+Counseling — Intentional Self Counseling
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+OUR SERVICES
+In-Person & Online
+Counseling
+Individuals • Families • Couples • Groups
+We are compassionate, informed therapists.
+We believe that everyone learns and grows best when they feel supported, comfortable, and safe. That's why therapy is all about finding the right "fit" and building trust between you and your therapist. It’s a personal, confidential, and private relationship with someone who’s trained to help. We’ll work with you to figure out areas you want to focus on, set goals together, and find the best way to move forward.
+Our team has a lot of experience working with teens (15+), adults, couples, and families dealing with all kinds of challenges—whether it’s difficulties and transitions, anxiety, addiction, chemical use, trauma/PTSD, depression, loss and grief, low self-esteem, or relationship issues. We’re here to help you navigate whatever life throws your way.
+We value teamwork. If there are other professionals involved in your care—like a psychiatrist, teacher, probation officer, or social worker—we’re happy to collaborate with them (with your okay, of course) to make sure you’re getting the best support possible.
+We know that visiting our office is not always doable. That’s why all of our therapists offer secure video sessions, also known as telehealth or teletherapy. And don’t worry— it’s secure and confidential and we can bill your insurance for online sessions just like we would for in-person ones.
+Meet the Team
+We can
+help
+with:
+Depression
+Depression can feel like a heavy weight that’s hard to lift. Our therapists are here to help you find ways to lighten that load, rediscover your energy, and feel more like yourself again.
+Stress, Anxiety, & Panic
+Life can get overwhelming, and stress and anxiety can really take over. Our therapists are here to help you find simple, practical ways to navigate it all and feel more at ease day by day.
+Attentional Challenges
+ADHD can make it tough to stay focused, organized, and on track. Our therapists help you find strategies that work for your life, so you can feel more in control and less frustrated by everyday challenges.
+Trauma
+Trauma can leave you feeling stuck in the past, even when you want to move forward. Our therapists provide a safe space to help you process what happened and start building a sense of peace and safety in your life again.
+Chemical Use
+When substance use starts to feel like it’s taking control, we’re here to help you explore healthier ways to cope and support you on your journey to reclaiming your life.
+Addiction
+Addiction can feel like an endless cycle, but you don’t have to face it alone. Our therapists help you break free from old patterns and build a path toward lasting recovery.
+Relationships
+Relationships can be both rewarding and challenging. We’re here to help you navigate the ups and downs, improve communication, and build stronger connections with those who matter most.
+Couples
+Every relationship has its rough patches. Our therapists work with couples to help you reconnect, communicate better, and understand each other’s needs so you can strengthen your bond.
+Family Dynamics
+Families are complicated, and navigating different personalities and expectations can be tough. We help families find common ground, improve communication, and foster healthier relationships.
+Adult Children
+Being an adult child can come with its own set of challenges, especially when it comes to navigating boundaries and family expectations. We’re here to help you manage those dynamics and find your own path.
+Parenting
+Parenting is one of the toughest jobs out there, and it doesn’t come with a manual. We support parents in finding practical strategies to better connect with and support their kids, no matter their age.
+Autism Spectrum
+Navigating life on the autism spectrum can be unique for everyone. Our therapists help individuals and families find tailored strategies that make daily life easier and more meaningful.
+Self-esteem
+Building self-esteem isn’t always easy, especially when navigating issues around gender, sexuality, or cultural identity. We’re here to help you embrace who you are, find your voice, and feel confident in your own skin.
+OUR APPROACH
+Compassionate
+therapy for personal
+growth
+and
+healing .
+At Intentional Self, we take a holistic, inclusive, and affirming approach to therapy, creating a compassionate and collaborative environment where individuals can explore their experiences, heal, and grow. We understand that each person is unique, and our goal is to tailor our therapeutic approach to meet your specific needs and goals. Whether you are seeking therapy for anxiety, depression, trauma, relationship challenges, identity exploration, or personal development, our skilled and empathetic therapists are here to support you every step of the way.
+Our process begins with a thorough initial consultation, during which we get to know you and your specific concerns. We prioritize understanding your unique background, including cultural, gender, and identity factors that shape your lived experience. This initial meeting allows us to develop a personalized treatment plan that is designed to meet your individual needs and empower you to navigate life’s challenges with confidence. Our approach is grounded in evidence-based practices such as Cognitive Behavioral Therapy (CBT), mindfulness techniques, and trauma-informed care, ensuring that you receive the most effective and appropriate treatment for your concerns.
+At Intentional Self, we believe that healing is not just about addressing symptoms but about fostering growth in all areas of your life. We take a holistic approach that considers your emotional, physical, and spiritual well-being. Our therapists are trained to integrate mind-body approaches, such as mindfulness and somatic therapies, to help you reconnect with your body and develop greater self-awareness. We also provide tools for self-care, stress management, and personal reflection, empowering you to take an active role in your healing journey.
+Inclusivity and affirming care are central to our practice. We are proud to offer a safe space for individuals from diverse backgrounds, including LGBTQ+ clients, people of color, and those from different cultural or religious backgrounds. We understand the importance of intersectionality and are dedicated to creating an environment where all aspects of your identity are respected and honored. Our therapists have specialized training in cultural competency and are committed to continually learning and growing to better serve all individuals.
+Our therapeutic space is designed to be warm and welcoming, with a focus on creating a non-judgmental, empathetic environment where you can feel comfortable expressing yourself. We know that seeking therapy can be a vulnerable experience, and our team is dedicated to providing the support, care, and respect you deserve. Throughout the therapeutic process, we will work together to explore your thoughts and feelings, develop new coping strategies, and help you achieve meaningful personal growth.
+Whether you are facing a specific challenge or seeking personal development, our goal at Intentional Self is to empower you to live a more fulfilled and authentic life. We are here to walk alongside you on this journey, providing the guidance and support needed to help you overcome obstacles, gain valuable insights, and create lasting change.
+If you are ready to take the first step towards healing and growth, we invite you to schedule a consultation with one of our experienced therapists. We look forward to working with you and supporting you in achieving your personal goals in a nurturing, inclusive, and affirming environment.
+FIND OUR FREQUENTLY ASKED QUESTIONS HERE OR BELOW
+Do you take insurance?
+We are in network with Blue Cross Blue Shield, Health Partners, Preferred One, Ucare, Medical Assistance, Cigna, Aetna, and Hennepin Health.
+Several, but not all, of our providers take United Healthcare, Medica, and Tricare.
+Please contact your insurance provider prior to the first session to verify coverage levels. Clients should ask their insurance provider if they have a copay, coinsurance, or are in a deductible so that all cost information is understood prior to the start of therapy.
+What should I know about billing and payment for services?
+You are responsible for knowing your insurance benefits and for payment of services. We require a 24-hour notice for cancellations; otherwise, a fee may be charged. We retain a credit card on file for missed appointments, copays, and other charges.
+What if I do not have insurance?
+We believe everyone should have access to high quality and affordable therapeutic services. If you do not have insurance coverage or prefer not to use insurance, the self-pay rate is \$165, but negotiable with each provider. Please ask your provider for their self-pay range as each provider determines their out-of-pocket rate. We use a secure payment technology to process out-of-pocket payments with a credit card.
+What are your fees for supervision, coaching, consultation, and employee assistance?
+Clinical supervision fees
+We provide individual or dyad supervision for \$60 per hour and group supervision for up to six clinicians for \$30 per hour.
+Coaching, Consultation, and Employee Assistance Program fees
+Fees are either per hour or total 'project.' Fees are negotiated based on expected hours and scope. We invoice our clients and also use a secure technology to process credit card payments.
+How do I get started?
+Phone or Email
+Please contact a provider directly using the phone number or email listed by their photo and biography.
+Inquiry form
+If you’d like to learn more about us, use the “Request Appointment” link above to send an electronic inquiry to our staff. We only ask for a little bit of information in an effort to protect privacy. A staff member will call or text you typically within one business day. Thank you!
+What is the goal of therapy at Intentional Self Counseling?
+Our goal is to help you work through life's challenges that may be disrupting your ability to function and live more fully. We provide information to help you make informed decisions about the therapy options available to you. As a client, you are expected to take an active role in your therapy.
+What types of therapy are offered at Intentional Self Counseling?
+We offer individual therapy, family therapy, and group therapy. Counseling can be done on its own or in conjunction with psychotropic medication. If outpatient counseling isn't sufficient, we may recommend a High Intensity Outpatient Program (HIOP) and/or other therapeutic services and resources.
+What are the risks and benefits of therapy?
+Therapy may involve discussing uncomfortable emotions, which can lead to increased symptoms before improvement is seen. However, benefits can include improved coping skills, better daily functioning, enhanced relationships, greater understanding of personal values and goals, and overall life satisfaction.
+What is the scope of services provided, and how long does therapy typically last?
+We provide outpatient mental health counseling by independently licensed professionals or supervised practitioners. Sessions are typically 45 to 60 minutes long and are held weekly or biweekly. A diagnostic evaluation is completed at the first or second session to help guide treatment planning.
+How is the decision made to end therapy?
+You and your provider will determine together when it's time to transition out of counseling. You have the right to withdraw from therapy at any time. If you discontinue services, please notify your provider.
+Do you offer telehealth services, and what are the risks?
+Yes, we offer telehealth services through platforms like Doxy, Zoom, and Therapy Notes. Risks may include communication distortions, technical disruptions, and difficulties in managing emergencies. If telehealth is not suitable, alternative resources will be provided.
+How is therapy for minors handled?
+Minors (under 18) require consent from a parent or guardian for therapy. Parents/guardians have legal access to records. We aim to maintain a trusting relationship with minor clients while involving parents/guardians as needed for safety and support.
+How does family and couples counseling work?
+Family counseling can involve couples, parents, and children. One individual is identified as the “client” who must qualify for a mental health diagnosis. Confidentiality considerations when working with two or more individuals in a session will be discussed as part of the informed consent process during the intake session.
+How is confidentiality handled, and what are the exceptions?
+Confidentiality is strictly maintained, but there are exceptions, such as court orders, emergencies, or threats of harm.
+What should I do in case of a mental health crisis?
+Our providers are not available for crisis services. If you are in crisis, call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) or text HOME to 741741. In a life-threatening emergency, call 911 or go to the nearest emergency room.
+How do you use social media and electronic communication?
+We may use social media for advertising, but clients are not obligated to interact via these platforms. For privacy reasons, we advise against using electronic communication for sensitive matters unless you are comfortable with the potential risks.
+How are requests for information or services outside of therapy sessions handled?
+We charge for any time, information, or reports requested outside of therapy sessions, especially for legal or administrative proceedings. The rate is \$500 for less than 4 hours and \$1,000 for 4 or more hours.
+Frequently
+Asked
+Questions
+Request An Appointment
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/contact-us/ ---
+Contact — Intentional Self Counseling
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+GET STARTED
+Request an
+appointment
+Click the button below and fill out the form to contact us. We’ll get back to you within one business days.
+Request appointment
+Do you take insurance?
+We are in network with Blue Cross Blue Shield, Health Partners, Preferred One, Ucare, Medical Assistance, Tricare, Cigna, Aetna, Hennepin Health, and South Country Health Alliance. A few of our providers take United Healthcare, Medica, and Tricare.
+Please contact your insurance provider prior to the first session to verify coverage levels. Clients should ask their insurance provider if they have a copay, coinsurance, or are in a deductible so that all cost information is understood prior to the start of therapy.
+What should I know about billing and payment for services?
+You are responsible for knowing your insurance benefits and for payment of services. We require a 24-hour notice for cancellations; otherwise, a fee may be charged. We retain a credit card on file for missed appointments, copays, and other charges.
+What if I do not have insurance?
+We believe everyone should have access to high quality and affordable therapeutic services. If you do not have insurance coverage or prefer not to use insurance, the self-pay rate is \$165, but negotiable with each provider. Please ask your provider for their self-pay range as each provider determines their out-of-pocket rate. We use a secure payment technology to process out-of-pocket payments with a credit card.
+What are your fees for supervision, coaching, consultation, and employee assistance?
+Clinical supervision fees
+We provide individual or dyad supervision for \$60 per hour and group supervision for up to six clinicians for \$30 per hour.
+Coaching, Consultation, and Employee Assistance Program fees
+Fees are either per hour or total 'project.' Fees are negotiated based on expected hours and scope. We invoice our clients and also use a secure technology to process credit card payments.
+How do I get started?
+Phone or Email
+Please contact a provider directly using the phone number or email listed by their photo and biography.
+Inquiry form
+If you’d like to learn more about us, use the “Request Appointment” link above to send an electronic inquiry to our staff. We only ask for a little bit of information in an effort to protect privacy. A staff member will call or text you typically within one business day. Thank you!
+What is the goal of therapy at Intentional Self Counseling?
+Our goal is to help you work through life's challenges that may be disrupting your ability to function and live more fully. We provide information to help you make informed decisions about the therapy options available to you. As a client, you are expected to take an active role in your therapy.
+What types of therapy are offered at Intentional Self Counseling?
+We offer individual therapy, family therapy, and group therapy. Counseling can be done on its own or in conjunction with psychotropic medication. If outpatient counseling isn't sufficient, we may recommend a High Intensity Outpatient Program (HIOP) and/or other therapeutic services and resources.
+What are the risks and benefits of therapy?
+Therapy may involve discussing uncomfortable emotions, which can lead to increased symptoms before improvement is seen. However, benefits can include improved coping skills, better daily functioning, enhanced relationships, greater understanding of personal values and goals, and overall life satisfaction.
+What is the scope of services provided, and how long does therapy typically last?
+We provide outpatient mental health counseling by independently licensed professionals or supervised practitioners. Sessions are typically 45 to 60 minutes long and are held weekly or biweekly. A diagnostic evaluation is completed at the first or second session to help guide treatment planning.
+How is the decision made to end therapy?
+You and your provider will determine together when it's time to transition out of counseling. You have the right to withdraw from therapy at any time. If you discontinue services, please notify your provider.
+Do you offer telehealth services, and what are the risks?
+Yes, we offer telehealth services through platforms like Doxy, Zoom, and Therapy Notes. Risks may include communication distortions, technical disruptions, and difficulties in managing emergencies. If telehealth is not suitable, alternative resources will be provided.
+How is therapy for minors handled?
+Minors (under 18) require consent from a parent or guardian for therapy. Parents/guardians have legal access to records. We aim to maintain a trusting relationship with minor clients while involving parents/guardians as needed for safety and support.
+How does family and couples counseling work?
+Family counseling can involve couples, parents, and children. One individual is identified as the “client” who must qualify for a mental health diagnosis. Confidentiality considerations when working with two or more individuals in a session will be discussed as part of the informed consent process during the intake session.
+How is confidentiality handled, and what are the exceptions?
+Confidentiality is strictly maintained, but there are exceptions, such as court orders, emergencies, or threats of harm.
+What should I do in case of a mental health crisis?
+Our providers are not available for crisis services. If you are in crisis, call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) or text HOME to 741741. In a life-threatening emergency, call 911 or go to the nearest emergency room.
+How do you use social media and electronic communication?
+We may use social media for advertising, but clients are not obligated to interact via these platforms. For privacy reasons, we advise against using electronic communication for sensitive matters unless you are comfortable with the potential risks.
+How are requests for information or services outside of therapy sessions handled?
+We charge for any time, information, or reports requested outside of therapy sessions, especially for legal or administrative proceedings. The rate is \$500 for less than 4 hours and \$1,000 for 4 or more hours.
+Frequently
+Asked
+Questions
+Our
+Locations
+St. Paul, Minnesota
+1619 Dayton Ave #112, St. Paul, MN 55104
+and
+Telehealth
+Providing care remotely through secure telehealth sessions.
+Our
+space .
+We believe that being in a calm, yet energizing space is important for creating movement and perspective. Our offices are warm, bright, and full of color. We offer water, tea, and coffee to help you relax, refresh, and enjoy the space and our sessions even more.
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/coaching ---
+Coaching — Intentional Self Counseling
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+OUR SERVICES
+Coaching
+Career • Health • Relationships • Life
+We are challenging, yet encouraging coaches.
+We bring significant experience coaching individuals and leaders. Coaching is a helpful process when someone feels "stuck." Clients who benefit from coaching may find they also feel: uncertain, less effective than desired, or dissatisfied with their job, health, relationships, or life in general. Coaching is not psychotherapy and clients do not have a mental health diagnosis. Coaching is similar to counseling in that it uses many of the same goal-setting, motivational interviewing, and accountability practices.
+Coaching is a way to gather insight and shift performance by trying new thinking and behaviors. Often, a coaching client feels that they want to get clearer about who they are, where they are, what they want, and how to get there. Many individuals find coaching a helpful process to be more intentional with their time and efforts. Coaching often leaves clients feeling clearer, more focused, having gained perspective, and more motivated and committed to the changes they want to make and a life they want to have. Coaching is a
+confidential
+process, which enables clients to be authentic and find real answers.
+We help clients assess and identify areas of focus, establish clear and achievable goals, and discover the motivation, commitment, and accountability to these goals. We offer supportive challenge, perspective, focus, and accountability. When needed, we use assessment tools to provide a comprehensive look at a client's interests, aptitudes, behaviors, personality, values, etc. With permission from the client, we may also ask for input from others involved in their life to add additional perspective.
+We charge coaching on an hourly rate or a project rate. Fees are either per hour or total 'project.' Fees are negotiated based on expected hours and scope. We invoice our clients and also use a secure technology to process credit card payments.
+Request An Appointment
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/cart ---
+Intentional Self
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/policies ---
+Policies — Intentional Self Counseling
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Disclaimer:
+The information provided on this website is for general informational purposes only and is not intended as a substitute for professional mental health advice, diagnosis, or treatment. Always seek the advice of your mental health provider or other qualified health professionals with any questions you may have regarding a medical condition or mental health concerns.
+Your use of this website does not establish a therapist-client relationship. If you are experiencing a crisis or emergency, please call 911 or go to the nearest emergency room. The content on this site is provided "as is" and without warranties of any kind, either express or implied.
+Privacy Policy:
+This privacy policy explains how Intentional Self Counseling collects, uses, and protects your personal information when you visit our website.
+Information Collection:
+We may collect personal information, such as your name, email address, phone number, and any other details you provide when contacting us through our contact forms or when subscribing to our newsletter.
+Use of Information:
+The information collected may be used to:
+Respond to your inquiries and provide services.
+Improve our website and services.
+Send periodic emails with updates or information related to our services.
+Protection of Information:
+We implement a variety of security measures to maintain the safety of your personal information. However, no transmission over the internet or electronic storage method is 100% secure, so we cannot guarantee absolute security.
+Sharing of Information:
+We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties, except as required by law or to provide services to you.
+Third-Party Links:
+Our website may contain links to third-party websites. We are not responsible for the privacy practices or the content of such websites.
+Consent:
+By using our website, you consent to our privacy policy.
+Terms of Use:
+By accessing and using this website, you agree to comply with and be bound by the following terms and conditions:
+1. Intellectual Property:
+All content on this website, including text, graphics, logos, images, and software, is the property of Intentional Self Counseling or its content suppliers and is protected by copyright laws.
+2. Use of Content:
+You may view, download, and print content from this site for personal use only. Any unauthorized use, including the reproduction, modification, distribution, transmission, or display of the content, is strictly prohibited.
+3. No Professional Advice:
+The information provided on this website is for general informational purposes only and is not intended as professional mental health advice. Please consult with a qualified therapist or other mental health professional for advice specific to your situation.
+4. Limitation of Liability:
+Intentional Self Counseling is not liable for any direct, indirect, incidental, consequential, or punitive damages arising out of your access to, or use of, this website.
+5. Changes to Terms:
+We reserve the right to modify these terms at any time. Your continued use of the website following the posting of changes to these terms will mean you accept those changes.
+6. Governing Law:
+These terms shall be governed by and construed in accordance with the laws of Minnesota, United States.
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/clinicalsupervision ---
+Clinical Supervision — Intentional Self Counseling
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+OUR SERVICES
+Clinical
+Supervision
+Licensed Independent Clinical Social Workers • Licensed Professional Clinical Counselors • Licensed Marriage and Family Therapists
+We offer competent, engaged clinical supervision.
+High quality clinical supervision is key to learning about, and being successful in, the vibrant, yet complex, field of mental health. We offer years of experience and knowledge as both mental health clinicians and leaders in a diversity of mental health settings and capacities.
+Our style is one of coach, asking many questions to help develop professionalism and insight as clinicians, gain perspectives on clients, and prepare for the licensing process. At this time, we offer clinical supervision for those seeking licenses as Licensed Independent Clinical Social Workers (LICSW), Licensed Professional Clinical Counselors (LPCC), and Licensed Marriage and Family Therapists (LMFT).
+We provide individual or dyad supervision for \$60 per hour and group supervision for up to six clinicians for \$30 per hour. We invoice our clients and also use a secure technology to process credit card payments.
+Request An Appointment
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/Services ---
+Counseling — Intentional Self Counseling
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+OUR SERVICES
+In-Person & Online
+Counseling
+Individuals • Families • Couples • Groups
+We are compassionate, informed therapists.
+We believe that everyone learns and grows best when they feel supported, comfortable, and safe. That's why therapy is all about finding the right "fit" and building trust between you and your therapist. It’s a personal, confidential, and private relationship with someone who’s trained to help. We’ll work with you to figure out areas you want to focus on, set goals together, and find the best way to move forward.
+Our team has a lot of experience working with teens (15+), adults, couples, and families dealing with all kinds of challenges—whether it’s difficulties and transitions, anxiety, addiction, chemical use, trauma/PTSD, depression, loss and grief, low self-esteem, or relationship issues. We’re here to help you navigate whatever life throws your way.
+We value teamwork. If there are other professionals involved in your care—like a psychiatrist, teacher, probation officer, or social worker—we’re happy to collaborate with them (with your okay, of course) to make sure you’re getting the best support possible.
+We know that visiting our office is not always doable. That’s why all of our therapists offer secure video sessions, also known as telehealth or teletherapy. And don’t worry— it’s secure and confidential and we can bill your insurance for online sessions just like we would for in-person ones.
+Meet the Team
+We can
+help
+with:
+Depression
+Depression can feel like a heavy weight that’s hard to lift. Our therapists are here to help you find ways to lighten that load, rediscover your energy, and feel more like yourself again.
+Stress, Anxiety, & Panic
+Life can get overwhelming, and stress and anxiety can really take over. Our therapists are here to help you find simple, practical ways to navigate it all and feel more at ease day by day.
+Attentional Challenges
+ADHD can make it tough to stay focused, organized, and on track. Our therapists help you find strategies that work for your life, so you can feel more in control and less frustrated by everyday challenges.
+Trauma
+Trauma can leave you feeling stuck in the past, even when you want to move forward. Our therapists provide a safe space to help you process what happened and start building a sense of peace and safety in your life again.
+Chemical Use
+When substance use starts to feel like it’s taking control, we’re here to help you explore healthier ways to cope and support you on your journey to reclaiming your life.
+Addiction
+Addiction can feel like an endless cycle, but you don’t have to face it alone. Our therapists help you break free from old patterns and build a path toward lasting recovery.
+Relationships
+Relationships can be both rewarding and challenging. We’re here to help you navigate the ups and downs, improve communication, and build stronger connections with those who matter most.
+Couples
+Every relationship has its rough patches. Our therapists work with couples to help you reconnect, communicate better, and understand each other’s needs so you can strengthen your bond.
+Family Dynamics
+Families are complicated, and navigating different personalities and expectations can be tough. We help families find common ground, improve communication, and foster healthier relationships.
+Adult Children
+Being an adult child can come with its own set of challenges, especially when it comes to navigating boundaries and family expectations. We’re here to help you manage those dynamics and find your own path.
+Parenting
+Parenting is one of the toughest jobs out there, and it doesn’t come with a manual. We support parents in finding practical strategies to better connect with and support their kids, no matter their age.
+Autism Spectrum
+Navigating life on the autism spectrum can be unique for everyone. Our therapists help individuals and families find tailored strategies that make daily life easier and more meaningful.
+Self-esteem
+Building self-esteem isn’t always easy, especially when navigating issues around gender, sexuality, or cultural identity. We’re here to help you embrace who you are, find your voice, and feel confident in your own skin.
+OUR APPROACH
+Compassionate
+therapy for personal
+growth
+and
+healing .
+At Intentional Self, we take a holistic, inclusive, and affirming approach to therapy, creating a compassionate and collaborative environment where individuals can explore their experiences, heal, and grow. We understand that each person is unique, and our goal is to tailor our therapeutic approach to meet your specific needs and goals. Whether you are seeking therapy for anxiety, depression, trauma, relationship challenges, identity exploration, or personal development, our skilled and empathetic therapists are here to support you every step of the way.
+Our process begins with a thorough initial consultation, during which we get to know you and your specific concerns. We prioritize understanding your unique background, including cultural, gender, and identity factors that shape your lived experience. This initial meeting allows us to develop a personalized treatment plan that is designed to meet your individual needs and empower you to navigate life’s challenges with confidence. Our approach is grounded in evidence-based practices such as Cognitive Behavioral Therapy (CBT), mindfulness techniques, and trauma-informed care, ensuring that you receive the most effective and appropriate treatment for your concerns.
+At Intentional Self, we believe that healing is not just about addressing symptoms but about fostering growth in all areas of your life. We take a holistic approach that considers your emotional, physical, and spiritual well-being. Our therapists are trained to integrate mind-body approaches, such as mindfulness and somatic therapies, to help you reconnect with your body and develop greater self-awareness. We also provide tools for self-care, stress management, and personal reflection, empowering you to take an active role in your healing journey.
+Inclusivity and affirming care are central to our practice. We are proud to offer a safe space for individuals from diverse backgrounds, including LGBTQ+ clients, people of color, and those from different cultural or religious backgrounds. We understand the importance of intersectionality and are dedicated to creating an environment where all aspects of your identity are respected and honored. Our therapists have specialized training in cultural competency and are committed to continually learning and growing to better serve all individuals.
+Our therapeutic space is designed to be warm and welcoming, with a focus on creating a non-judgmental, empathetic environment where you can feel comfortable expressing yourself. We know that seeking therapy can be a vulnerable experience, and our team is dedicated to providing the support, care, and respect you deserve. Throughout the therapeutic process, we will work together to explore your thoughts and feelings, develop new coping strategies, and help you achieve meaningful personal growth.
+Whether you are facing a specific challenge or seeking personal development, our goal at Intentional Self is to empower you to live a more fulfilled and authentic life. We are here to walk alongside you on this journey, providing the guidance and support needed to help you overcome obstacles, gain valuable insights, and create lasting change.
+If you are ready to take the first step towards healing and growth, we invite you to schedule a consultation with one of our experienced therapists. We look forward to working with you and supporting you in achieving your personal goals in a nurturing, inclusive, and affirming environment.
+FIND OUR FREQUENTLY ASKED QUESTIONS HERE OR BELOW
+Do you take insurance?
+We are in network with Blue Cross Blue Shield, Health Partners, Preferred One, Ucare, Medical Assistance, Cigna, Aetna, and Hennepin Health.
+Several, but not all, of our providers take United Healthcare, Medica, and Tricare.
+Please contact your insurance provider prior to the first session to verify coverage levels. Clients should ask their insurance provider if they have a copay, coinsurance, or are in a deductible so that all cost information is understood prior to the start of therapy.
+What should I know about billing and payment for services?
+You are responsible for knowing your insurance benefits and for payment of services. We require a 24-hour notice for cancellations; otherwise, a fee may be charged. We retain a credit card on file for missed appointments, copays, and other charges.
+What if I do not have insurance?
+We believe everyone should have access to high quality and affordable therapeutic services. If you do not have insurance coverage or prefer not to use insurance, the self-pay rate is \$165, but negotiable with each provider. Please ask your provider for their self-pay range as each provider determines their out-of-pocket rate. We use a secure payment technology to process out-of-pocket payments with a credit card.
+What are your fees for supervision, coaching, consultation, and employee assistance?
+Clinical supervision fees
+We provide individual or dyad supervision for \$60 per hour and group supervision for up to six clinicians for \$30 per hour.
+Coaching, Consultation, and Employee Assistance Program fees
+Fees are either per hour or total 'project.' Fees are negotiated based on expected hours and scope. We invoice our clients and also use a secure technology to process credit card payments.
+How do I get started?
+Phone or Email
+Please contact a provider directly using the phone number or email listed by their photo and biography.
+Inquiry form
+If you’d like to learn more about us, use the “Request Appointment” link above to send an electronic inquiry to our staff. We only ask for a little bit of information in an effort to protect privacy. A staff member will call or text you typically within one business day. Thank you!
+What is the goal of therapy at Intentional Self Counseling?
+Our goal is to help you work through life's challenges that may be disrupting your ability to function and live more fully. We provide information to help you make informed decisions about the therapy options available to you. As a client, you are expected to take an active role in your therapy.
+What types of therapy are offered at Intentional Self Counseling?
+We offer individual therapy, family therapy, and group therapy. Counseling can be done on its own or in conjunction with psychotropic medication. If outpatient counseling isn't sufficient, we may recommend a High Intensity Outpatient Program (HIOP) and/or other therapeutic services and resources.
+What are the risks and benefits of therapy?
+Therapy may involve discussing uncomfortable emotions, which can lead to increased symptoms before improvement is seen. However, benefits can include improved coping skills, better daily functioning, enhanced relationships, greater understanding of personal values and goals, and overall life satisfaction.
+What is the scope of services provided, and how long does therapy typically last?
+We provide outpatient mental health counseling by independently licensed professionals or supervised practitioners. Sessions are typically 45 to 60 minutes long and are held weekly or biweekly. A diagnostic evaluation is completed at the first or second session to help guide treatment planning.
+How is the decision made to end therapy?
+You and your provider will determine together when it's time to transition out of counseling. You have the right to withdraw from therapy at any time. If you discontinue services, please notify your provider.
+Do you offer telehealth services, and what are the risks?
+Yes, we offer telehealth services through platforms like Doxy, Zoom, and Therapy Notes. Risks may include communication distortions, technical disruptions, and difficulties in managing emergencies. If telehealth is not suitable, alternative resources will be provided.
+How is therapy for minors handled?
+Minors (under 18) require consent from a parent or guardian for therapy. Parents/guardians have legal access to records. We aim to maintain a trusting relationship with minor clients while involving parents/guardians as needed for safety and support.
+How does family and couples counseling work?
+Family counseling can involve couples, parents, and children. One individual is identified as the “client” who must qualify for a mental health diagnosis. Confidentiality considerations when working with two or more individuals in a session will be discussed as part of the informed consent process during the intake session.
+How is confidentiality handled, and what are the exceptions?
+Confidentiality is strictly maintained, but there are exceptions, such as court orders, emergencies, or threats of harm.
+What should I do in case of a mental health crisis?
+Our providers are not available for crisis services. If you are in crisis, call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) or text HOME to 741741. In a life-threatening emergency, call 911 or go to the nearest emergency room.
+How do you use social media and electronic communication?
+We may use social media for advertising, but clients are not obligated to interact via these platforms. For privacy reasons, we advise against using electronic communication for sensitive matters unless you are comfortable with the potential risks.
+How are requests for information or services outside of therapy sessions handled?
+We charge for any time, information, or reports requested outside of therapy sessions, especially for legal or administrative proceedings. The rate is \$500 for less than 4 hours and \$1,000 for 4 or more hours.
+Frequently
+Asked
+Questions
+Request An Appointment
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/contact-us/location ---
+Contact — Intentional Self Counseling
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+GET STARTED
+Request an
+appointment
+Click the button below and fill out the form to contact us. We’ll get back to you within one business days.
+Request appointment
+Do you take insurance?
+We are in network with Blue Cross Blue Shield, Health Partners, Preferred One, Ucare, Medical Assistance, Tricare, Cigna, Aetna, Hennepin Health, and South Country Health Alliance. A few of our providers take United Healthcare, Medica, and Tricare.
+Please contact your insurance provider prior to the first session to verify coverage levels. Clients should ask their insurance provider if they have a copay, coinsurance, or are in a deductible so that all cost information is understood prior to the start of therapy.
+What should I know about billing and payment for services?
+You are responsible for knowing your insurance benefits and for payment of services. We require a 24-hour notice for cancellations; otherwise, a fee may be charged. We retain a credit card on file for missed appointments, copays, and other charges.
+What if I do not have insurance?
+We believe everyone should have access to high quality and affordable therapeutic services. If you do not have insurance coverage or prefer not to use insurance, the self-pay rate is \$165, but negotiable with each provider. Please ask your provider for their self-pay range as each provider determines their out-of-pocket rate. We use a secure payment technology to process out-of-pocket payments with a credit card.
+What are your fees for supervision, coaching, consultation, and employee assistance?
+Clinical supervision fees
+We provide individual or dyad supervision for \$60 per hour and group supervision for up to six clinicians for \$30 per hour.
+Coaching, Consultation, and Employee Assistance Program fees
+Fees are either per hour or total 'project.' Fees are negotiated based on expected hours and scope. We invoice our clients and also use a secure technology to process credit card payments.
+How do I get started?
+Phone or Email
+Please contact a provider directly using the phone number or email listed by their photo and biography.
+Inquiry form
+If you’d like to learn more about us, use the “Request Appointment” link above to send an electronic inquiry to our staff. We only ask for a little bit of information in an effort to protect privacy. A staff member will call or text you typically within one business day. Thank you!
+What is the goal of therapy at Intentional Self Counseling?
+Our goal is to help you work through life's challenges that may be disrupting your ability to function and live more fully. We provide information to help you make informed decisions about the therapy options available to you. As a client, you are expected to take an active role in your therapy.
+What types of therapy are offered at Intentional Self Counseling?
+We offer individual therapy, family therapy, and group therapy. Counseling can be done on its own or in conjunction with psychotropic medication. If outpatient counseling isn't sufficient, we may recommend a High Intensity Outpatient Program (HIOP) and/or other therapeutic services and resources.
+What are the risks and benefits of therapy?
+Therapy may involve discussing uncomfortable emotions, which can lead to increased symptoms before improvement is seen. However, benefits can include improved coping skills, better daily functioning, enhanced relationships, greater understanding of personal values and goals, and overall life satisfaction.
+What is the scope of services provided, and how long does therapy typically last?
+We provide outpatient mental health counseling by independently licensed professionals or supervised practitioners. Sessions are typically 45 to 60 minutes long and are held weekly or biweekly. A diagnostic evaluation is completed at the first or second session to help guide treatment planning.
+How is the decision made to end therapy?
+You and your provider will determine together when it's time to transition out of counseling. You have the right to withdraw from therapy at any time. If you discontinue services, please notify your provider.
+Do you offer telehealth services, and what are the risks?
+Yes, we offer telehealth services through platforms like Doxy, Zoom, and Therapy Notes. Risks may include communication distortions, technical disruptions, and difficulties in managing emergencies. If telehealth is not suitable, alternative resources will be provided.
+How is therapy for minors handled?
+Minors (under 18) require consent from a parent or guardian for therapy. Parents/guardians have legal access to records. We aim to maintain a trusting relationship with minor clients while involving parents/guardians as needed for safety and support.
+How does family and couples counseling work?
+Family counseling can involve couples, parents, and children. One individual is identified as the “client” who must qualify for a mental health diagnosis. Confidentiality considerations when working with two or more individuals in a session will be discussed as part of the informed consent process during the intake session.
+How is confidentiality handled, and what are the exceptions?
+Confidentiality is strictly maintained, but there are exceptions, such as court orders, emergencies, or threats of harm.
+What should I do in case of a mental health crisis?
+Our providers are not available for crisis services. If you are in crisis, call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) or text HOME to 741741. In a life-threatening emergency, call 911 or go to the nearest emergency room.
+How do you use social media and electronic communication?
+We may use social media for advertising, but clients are not obligated to interact via these platforms. For privacy reasons, we advise against using electronic communication for sensitive matters unless you are comfortable with the potential risks.
+How are requests for information or services outside of therapy sessions handled?
+We charge for any time, information, or reports requested outside of therapy sessions, especially for legal or administrative proceedings. The rate is \$500 for less than 4 hours and \$1,000 for 4 or more hours.
+Frequently
+Asked
+Questions
+Our
+Locations
+St. Paul, Minnesota
+1619 Dayton Ave #112, St. Paul, MN 55104
+and
+Telehealth
+Providing care remotely through secure telehealth sessions.
+Our
+space .
+We believe that being in a calm, yet energizing space is important for creating movement and perspective. Our offices are warm, bright, and full of color. We offer water, tea, and coffee to help you relax, refresh, and enjoy the space and our sessions even more.
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/about-us ---
+About Us | Intentional Self Counseling, Coaching & Consultation — Intentional Self Counseling
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+ABOUT US
+Intentional
+Self
+St. Paul • Online
+Lacrestia Anderson
+MA, LADC
+PSYCHOTHERAPIST
+Locations:
+Telehealth
+Phone:
+651-252-1645
+Email:
+Lacrestiaa@intentionalselfcounseling.org
+Meet Lacrestia
+Abe Awes
+MA
+PSYCHOTHERAPIST
+Locations:
+Telehealth and St. Paul office
+Phone:
+612-454-9744
+Email:
+abea@intentionalselfcounseling.org
+Meet Abe
+Nick Dailey-Arndt
+MS
+PSYCHOTHERAPIST
+Locations:
+Telehealth and St. Paul office
+Phone:
+651-300-7655
+Email:
+nickda@intentionalselfcounseling.org
+Meet Nick
+Erin Buck
+MA, LPCC, LADC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR, LICENSED ALCOHOL AND DRUG COUNSELOR
+Locations:
+Telehealth and St. Paul office
+Phone:
+612-267-1949
+Meet Erin
+Joan Bullemer
+MA, LPCC, LADC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR, LICENSED ALCOHOL AND DRUG COUNSELOR
+Locations:
+Telehealth
+Phone:
+612-267-1949
+Meet Joan
+Melissa Christensen
+MPS, LPCC, LADC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR, LICENSED ALCOHOL AND DRUG COUNSELOR
+Locations:
+Telehealth
+Phone:
+952-412-2637
+Meet Melissa
+Kacie Ervasti
+MSW, LICSW
+LICENSED INDEPENDENT CLINICAL SOCIAL WORKER
+Locations:
+Telehealth and St. Paul office
+Phone:
+952-657-4900
+Email:
+kacie.licsw@gmail.com
+Meet Kacie
+Crystal Ford
+MA, LPCC, LADC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR, LICENSED ALCOHOL AND DRUG COUNSELOR
+Locations:
+Telehealth
+Phone:
+651-240-2295
+Email:
+crystaljford@yahoo.com
+Meet Crystal
+Alyssa Haggerty
+MSW, LICSW
+LICENSED INDEPENDENT CLINICAL SOCIAL WORKER
+Locations:
+Telehealth and St. Paul office
+Phone:
+612-756-8462
+Email:
+alyssahaggertylicsw@gmail.com
+Meet Alyssa
+Jamie Hewitt
+Psychotherapist
+Locations:
+Telehealth
+Phone:
+701-866-8884
+Email:
+jamieh@intentionalselfcounseling.org
+Meet Jamie
+Lauren Kizaur
+LICSW
+LICENSED INDEPENDENT CLINICAL SOCIAL WORKER
+Locations:
+Telehealth and St. Paul office
+Phone:
+612-405-2131
+Email:
+lauren@lktherapymn.com
+Meet Lauren
+Mary Kurtz
+MPS, LPCC, LADC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR, LICENSED ALCOHOL AND DRUG COUNSELOR
+Locations:
+Telehealth and St. Paul office
+Phone:
+612-987-6120
+Email:
+mary.b.intentionalselfcounseling@gmail.com
+Meet Mary
+Paige Lee
+MSW, LICSW
+LICENSED INDEPENDENT CLINICAL SOCIAL WORKER
+Locations:
+Telehealth and St. Paul office
+Phone:
+651-755-0390
+Email:
+paigeschissellee@proton.me
+Meet Paige
+Ana Lozano
+MA, LPCC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR
+Locations:
+Telehealth
+Phone:
+612-470-6304
+Email:
+analpcc@anavlozano.com
+Meet Ana
+Alaina McNallie
+MA, LMFT
+LICENSED MARRIAGE AND FAMILY THERAPIST
+Locations:
+Telehealth
+Phone:
+952-239-3860
+Email:
+alainamcnallie@proton.me
+Meet Alaina
+Brianna Moeckel
+MA
+PSYCHOTHERAPIST
+Locations:
+Telehealth and St. Paul office
+Phone:
+612-567-6647
+Email:
+briannam@intentionalselfcounseling.org
+Meet Brianna
+Anne O’Connor
+MSW, LICSW
+LICENSED INDEPENDENT CLINICAL SOCIAL WORKER
+Locations:
+Telehealth
+Phone:
+608-606-4808
+Email:
+anne@anneoconnorpsychotherapy.com
+Meet Anne
+Suzy Oswald
+MA, LPCC, LADC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR
+Locations:
+Telehealth
+Phone:
+612-440-1805
+Email:
+suzyoswald@proton.me
+Meet Suzy
+Sam Paulson
+MSW, LICSW
+LICENSED INDEPENDENT CLINICAL SOCIAL WORKER
+Locations:
+Telehealth and St. Paul office
+Phone:
+763-438-5728
+Meet Sam
+Genevieve Pelrine
+MSW, LICSW
+LICENSED INDEPENDENT CLINICAL SOCIAL WORKER
+Locations:
+Telehealth and St. Paul office
+Phone:
+920-246-7975
+Meet Genevieve
+Susie Petteway
+INTERN
+Locations:
+Telehealth
+Phone:
+Email:
+susiep@intentionalselfcounseling.org
+Meet Susie
+Corrine Poole
+Licensed Independent Clinical Social Worker
+Locations:
+St. Paul and Telehealth
+Phone:
+651-955-6856
+Email:
+susiep@intentionalselfcounseling.org
+Meet Corrine
+Madison Riebe
+LPCC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR
+Locations:
+Telehealth and St. Paul office
+Phone:
+612-444-1543
+Email:
+madison@solhealingllc.org
+Meet Madison
+Nikki Runyan
+MA, LPCC, LADC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR, LICENSED ALCOHOL AND DRUG COUNSELOR
+Locations:
+Telehealth
+Phone:
+763-229-3097
+Email:
+nikkirunyanlpcc@gmail.com
+Meet Nikki
+Nicole Schefers
+MPS, LPCC, LADC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR
+Locations:
+Telehealth
+Phone:
+612-255-4362
+Meet Nicole
+Kari Scott
+MS, LPCC, LADC, CAMS-II
+LICENSED PROFESSIONAL CLINICAL COUNSELOR, LICENSED ALCOHOL AND DRUG COUNSELOR, CERTIFIED ANGER MANAGEMENT SPECIALIST-II
+Locations:
+Telehealth
+Phone:
+612-237-4330
+Meet Kari
+Ilyssa Siegel
+PSYD, LP
+PSYCHOLOGIST
+Locations:
+Telehealth
+Email:
+ilyssa.siegel@gmail.com
+Phone:
+‪
+612-470-6588‬
+Meet Ilyssa
+Serenity Silvers
+MPS, LPCC, LADC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR, LICENSED ALCOHOL AND DRUG COUNSELOR
+Locations:
+Telehealth
+Phone:
+651-419-6960
+Email:
+serenity@therapywithserenity.com
+Meet Serenity
+Elizabeth Volkman
+MPS, LPCC, LADC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR, LICENSED ALCOHOL AND DRUG COUNSELOR
+Locations:
+Telehealth
+Phone:
+612-644-0375
+Meet Elizabeth
+Dani Voss
+MS, LPCC
+LICENSED PROFESSIONAL CLINICAL COUNSELOR
+Locations:
+Telehealth
+Phone:
+612-208-9189
+Email:
+danivosstherapy@gmail.com
+Meet Dani
+Heather Wilmes
+MSW, LICSW
+LICENSED INDEPENDENT CLINICAL SOCIAL WORKER
+Locations:
+Telehealth and St. Paul office
+Phone:
+612-439-3030
+Meet Heather
+Tara Lemke Ebenhoch
+MA, LMFT, ACC
+LICENSED MARRIAGE AND FAMILY THERAPIST, CERTIFIED CLINICAL SUPERVISOR, CO-OWNER
+Locations:
+Telehealth and St. Paul office
+Phone:
+763-228-4752
+Email:
+tarale@intentionalselfcounseling.org
+Meet Tara
+Brownell Hilger
+MSW, LICSW
+LICENSED INDEPENDENT CLINICAL SOCIAL WORKER, CERTIFIED CLINICAL SUPERVISOR, CO-OWNER
+Locations:
+Telehealth
+Phone:
+612-819-6577
+Email:
+brownellh@intentionalselfcounseling.org
+Meet Brownell
+Meet
+the team
+Request An Appointment
+Why choose Intentional
+Self
+?
+Experienced and Compassionate Therapists
+Our team comprises qualified and trained therapists with extensive experience in various mental health fields.
+Diversity and Inclusion
+At Intentional Self, we are committed to fostering a diverse and inclusive environment where everyone, regardless of race, ethnicity, gender identity, sexual orientation, or background, feels valued and respected. We recognize the importance of promoting fairness and equity and we strive to create a space that honors all identities and celebrates the unique perspectives each individual brings. Our commitment to respecting all individuals guides our therapeutic approach, ensuring that everyone receives compassionate care tailored to their specific needs. Our team is committed to social justice and work and live in a conscientious manner. We strive to bring an inclusive and diversity mindset and practices into our work with clients.
+Holistic Approach
+We consider all aspects of your life, including emotional, physical, and social factors, to provide comprehensive care.
+Confidential and Safe Environment
+Your privacy is our priority. We create a secure space where you can openly discuss your concerns.
+Flexible Scheduling
+We offer flexible appointment times, including evenings and weekends, to accommodate your busy schedule.
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/staff-directory/anne-oconnor ---
+Anne O’Connor, MSW, LICSW — Intentional Self
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Anne O’Connor, MSW, LICSW
+Individual Therapist
+Apr 30
+Written By
+Monica Kovach
+ANNE O’CONNOR
+(SHE, HER)
+Licensed Independent Clinical Social Worker
+Location:
+St. Paul office and telehealth
+Email:
+anne@anneoconnorpsychotherapy.com
+Phone:
+608-606-4808
+Specialties:
+Relationships and family challenges
+ENM and poly relationships
+Queer challenges
+Immigrant challenges
+Trauma
+Working with helping professionals
+Who I help:
+Adolescents 12+
+Adults
+Couples & Families
+Immigrants
+Therapists
+Anne works with you to meet life the way that aligns with your most-true self. As an individual, couple, or as part of a family, she works with you to define the best path forward; consider and support yor identity and its full expression; improve your communication and relationship skills; deepen or find your purpose and joy for living; create a life that is more in alignment with your desires and values; foster the care and respect that you want, and manage symptoms of severe mental illness.
+Living intentionally, including being in therapy, isn’t always easy. But it’s far more satisfying than banging our heads against the same old wall. Most of us have been there, done that. We can do life differently. Anne uses evidence-based practices and the ancient arts of mindfulness. Social justice, trauma, and developmental lenses are key. She supports family relationships: adult child/parent, stepfamily, LGBTQ+ and queer, especially trans youth and their caretakers. She also works with long-term sobriety, and serious mental health disorders from bipolar to complex PTSD to depression.
+With both life experience and formal education and training, Anne can support you in becoming who you want to be. Together, you’ll develop new ways of thinking, behaving, and being. She’ll support you as you question habits to see if they’re still useful. You’ll develop more choice and fun as you become the most-true you. Contact her and see what you might do together.
+Request an appointment with ANNE
+Monica Kovach
+Monica is the Founder and Designer at Hold Space Creative. She's a former art therapist and coach, and uses her 10+ years of experience in marketing and design to help therapists and coaches connect with their best-fit clients online.
+https://www.holdspacecreative.com
+Previous
+Previous
+Elizabeth Volkman, MPS, LPCC, LADC
+Next
+Next
+Joan Bullemer, MA, LPCC, LADC
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/staff-directory/ana-lozano ---
+Ana Lozano, MA, LPCC — Intentional Self
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Ana Lozano, MA, LPCC
+Individual Therapist
+Apr 30
+Written By
+Monica Kovach
+ANA LOZANO
+(SHE, HER)
+Licensed Professional Clinical Counselor
+Location:
+Telehealth
+Email:
+analpcc@anavlozano.com
+Phone:
+612-470-6304
+Specialties:
+Cognitive-Behavioral Therapy (CBT),
+Trauma recovery
+Complex family dynamics and relationship challenges
+Who I help:
+Those who speak both English and Spanish (habla Español)
+Adults & families
+Anyone who needs help setting healthier boundaries and breaking cycles keeping them stuck
+Habla Ana!
+Habla Español!
+Ana believes that healing is possible regardless of whatever obstacles you have previously faced and that everyone deserves to live the life they truly want. Ana works with a strengths-based focused and client-centered approach to help individuals achieve their goals. Ana provides supportive counseling, she is encouraging, warm, friendly, validating, and empowering in her sessions. Ana treats her clients with kindness, and respect and strives to create a judgment-free space for individuals to feel safe to fully express themselves. Ana strongly believes that good therapy will be extremely impactful in one’s healing journey. She enjoys supporting individuals on their journey towards better mental health and creating a more meaningful and authentic life for themselves.
+Ana has extensive experience working with children in k-12 education settings, adolescents in foster care, individuals with co-occurring disorders, and culturally diverse and blended families. Her areas of expertise include relationship issues, anxiety, depression, trauma, life transitions, and identity concerns. Ana also enjoys serving Hispanic/Latino families and young adults looking for a practitioner of the same background to understand their unique issues and needs. Ana is also trauma-informed and understands the impact that trauma has on individuals' thinking and how this may interfere with creating the life they desire. She uses therapeutic modalities such as; Cognitive behavioral therapy (CBT), acceptance and commitment therapy, mindfulness practices, trauma-informed, Gottman method skills for developing healthier relationships, and family systems theories. Ana also speaks fluent Spanish.
+Ana received her bachelor's in Family Social Science from the University of Minnesota Twin Cities. She then received her dual Master’s degree in Counseling and Psychological Services and Addiction Studies from St. Mary’s University of Minnesota and is currently licensed as a Licensed Professional Clinical Counselor (LPCC). In her free time, you can find Ana traveling, immersed in a book, playing with her Persian cat (Leon), and spending time with family and friends.
+Request an appointment with ana
+Monica Kovach
+Monica is the Founder and Designer at Hold Space Creative. She's a former art therapist and coach, and uses her 10+ years of experience in marketing and design to help therapists and coaches connect with their best-fit clients online.
+https://www.holdspacecreative.com
+Previous
+Previous
+Kacie Ervasti, MSW, LICSW
+Next
+Next
+Nikki Runyan, MA, LPCC, LADC
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/staff-directory/ilyssa-siegel ---
+Ilyssa Siegel, PsyD, LP — Intentional Self
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Ilyssa Siegel, PsyD, LP
+Individual Therapist
+Oct 17
+Written By
+Monica Kovach
+ILYSSA SIEGEL
+(SHE, HER)
+Psychologist
+Locations:
+Telehealth
+Email:
+ilyssa.siegel@gmail.com
+Phone:
+‪612-470-6588‬
+Specialties:
+Depression
+Anxiety
+Trauma
+Sexual issues
+Relationship problems
+Life transitions
+Anger
+Men's issues
+Substance use problems
+Addictions
+LGBTQ individuals
+Gender-affirming surgery letters
+Who I help:
+Adults
+Couples
+My name is Ilyssa Siegel (pronounced IL-LEESA), and I've been a licensed psychologist since 2017.  I earned a bachelor's degree in Psychology from Metropolitan State University in 2007 and a doctorate in clinical psychology from the Minnesota School of Professional Psychology in 2014.
+Change is hard, and I view everyone who seeks change as courageous. I am honored to be a part of anyone's journey toward change, whatever that may look like. I strive to approach each person I meet with a non-judgemental stance that focuses on the changes they wish or do not wish to make in their life.
+I enjoy working with individuals who are struggling with any life issues, including depression, anxiety, trauma, self-esteem issues, confusion, and feeling stuck. I enjoy working with LGBTQ clients and anyone with relationship or sexual issues. I am very open to receive feedback from you on what you are looking for in therapy. In my spare time, I enjoy watching the Minnesota Lynx, traveling, reading, exercising, and spending time with my friends and family.  I look forward to meeting you!
+Request an appointment with ILYSSA
+Monica Kovach
+Monica is the Founder and Designer at Hold Space Creative. She's a former art therapist and coach, and uses her 10+ years of experience in marketing and design to help therapists and coaches connect with their best-fit clients online.
+https://www.holdspacecreative.com
+Previous
+Previous
+Jamie Hewitt, Psychotherapist
+Next
+Next
+Brianna Moeckel, MA
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/staff-directory/kari-scott ---
+Kari Scott, MS, LPCC, LADC — Intentional Self
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Kari Scott, MS, LPCC, LADC
+Individual Therapist
+Apr 30
+Written By
+Monica Kovach
+KARI SCOTT
+(SHE, HER)
+Licensed Professional Clinical Counselor, Licensed Alcohol and Drug Counselor
+Locations:
+Telehealth
+Phone:
+612-237-4330
+Specialties:
+Anger
+Anxiety
+Abuse
+Depression
+Mood disorders
+Chronic pain/illness
+Grief
+Phase of life challenges
+Trauma
+Who I help:
+Adolescents 12+
+Adults
+As a Licensed Professional Clinical Counselor (LPCC), Licensed Alcohol and Drug Counselor (LADC).
+Kari brings an integrated approach to the therapeutic process. Seeking to meet individuals where they are presently at and striving to provide an empathetic, non-judgmental, secure environment for clients to safely explore all aspects of life.
+Kari tends to focus on the here-and-now. Often utilizing meditation and mindfulness-based interventions to assist clients in cultivating awareness, recognition and acceptance of bodily sensations, cognitions, and feelings to more effectively meet life’s challenges in the moment.
+Kari brings with her a diverse skill set and over 10 years of experience advocating, counseling, speaking, and teaching in public and private sectors working with a broad range of clientele to promote change and reduce harm. She is trained in a variety of therapeutic modalities and experienced working with cultural and gender minorities. Kari has successfully worked with client’s to reduce/resolve adjustment and phase of life issues, addiction, anger/emotional dysregulation, anxiety, attachment, depression, grief/loss, stress, and trauma.
+She has advanced training in anger management. Kari brings warmth, perspective, and hope to every session.
+Request an appointment with KARI
+Monica Kovach
+Monica is the Founder and Designer at Hold Space Creative. She's a former art therapist and coach, and uses her 10+ years of experience in marketing and design to help therapists and coaches connect with their best-fit clients online.
+https://www.holdspacecreative.com
+Previous
+Previous
+Brownell Hilger, MSW, LICSW
+Next
+Next
+Crystal Ford, MA, LPCC, LADC
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/staff-directory/madison-riebe ---
+Madison Riebe, LPCC — Intentional Self
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Madison Riebe, LPCC
+Couples Therapist
+Oct 18
+Written By
+Monica Kovach
+Madison Riebe
+(SHE, HER)
+Licensed Professional Clinical Counselor
+Locations:
+St. Paul office and Telehealth; Licensed in Minnesota and Wisconsin
+Email:
+madison@solhealingllc.org
+Phone:
+612-444-1543
+Specialties:
+Eye Movement Desensitization Reprocessing (EMDR),
+PTSD/trauma
+Integrative health and wellness
+Working with performance-based hobbies, athletics, and those within the fitness community
+Who I help:
+Adults
+14 + teens
+If you’re looking for someone who takes a holistic approach to mental health care, Madison may be the right fit for you. She believes in working collaboratively using integrative approaches, exploring not only the ‘why’, but also the ‘what now?’. She takes a psychoeducational approach, empowering folks to understand more about themselves and giving practical tools to help with each individual’s unique circumstances. Meeting individuals where they are at is important to her. She will offer various types of processing outside of talk therapy (e.g. EMDR, writing prompts, art directives, music, etc.), letting you take the reins and decide what feels the best and safest for your healing.
+She has a wide range of experience, with her main specialty being in trauma-informed care and trauma processing. Additionally, she worked with athletes of different levels, optimizing both performance and recovery. However, she has experience with many different concerns, such as mood and anxiety disorders, relationship issues, grief and loss, life transitions, neurodivergence, and substance use disorders. She is EMDR Certified, has continuing education with integrative health for mental health, and trauma-informed care.
+In her free time, she enjoys creating art, finding new tattoo ideas, hiking, and spending time with loved ones. Madison has spent over a decade in the fitness community and competed as a powerlifting athlete herself. She received her Bachelor of Science in Psychology from the University of Wisconsin – River Falls, and her Master’s degree in Clinical Mental Health Counseling from Bethel University. She is licensed to practice in both Minnesota and Wisconsin.
+Request an appointment with MADISON
+Monica Kovach
+Monica is the Founder and Designer at Hold Space Creative. She's a former art therapist and coach, and uses her 10+ years of experience in marketing and design to help therapists and coaches connect with their best-fit clients online.
+https://www.holdspacecreative.com
+Previous
+Previous
+Suzy Oswald, MA, LPCC, LADC
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/staff-directory/elizabeth-volkman ---
+Elizabeth Volkman, MPS, LPCC, LADC — Intentional Self
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Elizabeth Volkman, MPS, LPCC, LADC
+Individual Therapist
+Apr 30
+Written By
+Monica Kovach
+ELIZABETH VOLKMAN
+(SHE, HER)
+Licensed Professional Clinical Counselor, Licensed Alcohol and Drug Counselor
+Location:
+Telehealth
+Phone:
+612-644-0375
+Specialties:
+Who I help:
+Elizabeth believes that understanding, accepting, and committing to our values is an integral part of recovery and creating a meaningful life. She aims to provide tools and support to allow individuals to resolve their past and thrive in the present. Elizabeth has professional experience and training focuses on providing advocacy and guidance for adults seeking management and relief from PTSD, substance use concerns, mood and anxiety disorders, and personality disorders.
+Using a mindfulness and acceptance-based therapeutic approach to understand the unique perspectives and experiences of each individual, Elizabeth empowers clients towards change in a safe, welcoming environment. Therapeutic approaches include Cognitive Behavioral Therapy, Dialectical Behavior Therapy, Mindfulness-Based Cognitive Therapy, Internal Family Systems therapy, relapse prevention and harm reduction.
+Elizabeth holds a Master of Arts Degree in Counseling Psychotherapy and a Graduate Certificate in Addiction Studies from Saint Mary’s University of Minnesota. Elizabeth has extensive experience working with individuals who are coping with depression, anxiety, Bipolar Disorder, Psychotic Disorders, trauma and substance use concerns. She is LGBTQIA+ affirmative and enjoys working with adults, survivors of trauma and abuse, and BIPOC communities and diverse clients.
+Request an appointment with ELIZABETH
+Monica Kovach
+Monica is the Founder and Designer at Hold Space Creative. She's a former art therapist and coach, and uses her 10+ years of experience in marketing and design to help therapists and coaches connect with their best-fit clients online.
+https://www.holdspacecreative.com
+Previous
+Previous
+Nikki Malecek, MPS, LPCC, LADC
+Next
+Next
+Anne O’Connor, MSW, LICSW
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/staff-directory/serenity-silvers ---
+Serenity Silvers, MPS, LPCC, LADC — Intentional Self
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Serenity Silvers, MPS, LPCC, LADC
+Individual Therapist
+Apr 30
+Written By
+Monica Kovach
+SERENITY SILVERS
+(SHE, HER)
+Licensed Professional Clinical Counselor, Licensed Alcohol and Drug Counselor
+Location:
+Telehealth
+Email:
+serenity@therapywithserenity.com
+Phone:
+651-419-6960
+Specialties:
+Substance Use
+Trauma
+Conversion Disorder
+Psychogenic Non-Epileptic Seizures
+Mindful Self-compassion
+Certified Narrative Therapist
+Who I help:
+Individual adults experiencing
+Depression or Anxiety
+Problematic Substance Use
+Supporting a loved one through substance use recovery
+Complex PTSD
+Bipolar
+If you've faced trauma or mental health challenges that have affected your life, including your relationship with substances, you’re not alone. My name is Serenity, and I am here to support you on a journey of self-discovery and change. I believe deeply in the strength and resilience within each person and that everyone is doing their best to cope and connect. While our survival strategies may sometimes lead to challenges, together, we can explore new paths toward a fulfilling life.
+In our work, we’ll explore your story, uncovering how past experiences have shaped your present challenges. With compassion and without judgment, I’ll be here to guide you as you reconnect with who you are, discover what truly matters to you, and build the skills to pursue a life that brings joy, peace, and meaning.
+I am a Licensed Professional Clinical Counselor (LPCC) and a Licensed Alcohol and Drug Counselor (LADC) with a Master’s in Integrative Behavioral Health from the University of Minnesota. My training in Narrative Therapy aligns with my belief that, while I may be a therapy expert, you are the expert on you. My focus on Mindful Self-Compassion, self-forgiveness, and self-efficacy is here to help you foster resilience, learn from the past, and make the changes that will help you thrive.
+If you're ready to take a step toward healing, growth, and self-compassion, I am here to support you.
+Request an appointment with SERENITY
+Monica Kovach
+Monica is the Founder and Designer at Hold Space Creative. She's a former art therapist and coach, and uses her 10+ years of experience in marketing and design to help therapists and coaches connect with their best-fit clients online.
+https://www.holdspacecreative.com
+Previous
+Previous
+Dani Voss, MS, LPCC
+Next
+Next
+Melissa Christensen, MPS, LPCC, LADC
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+--- URL: https://www.intentionalselfcounseling.org/staff-directory/kacie-ervasti ---
+Kacie Ervasti, MSW, LICSW — Intentional Self
+0
+Skip to Content
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About us
+Services
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Locations
+St. Paul
+Telehealth
+FAQ
+Request A Session
+About us
+Folder:
+Services
+Back
+Counseling
+Coaching
+Consultation
+Clinical Supervision
+Employee Assistance
+Folder:
+Locations
+Back
+St. Paul
+Telehealth
+FAQ
+Request A Session
+Kacie Ervasti, MSW, LICSW
+Individual Therapist
+Apr 30
+Written By
+Monica Kovach
+KACIE ERVASTI
+(SHE, HER)
+Licensed Independent Clinical Social Worker
+Locations:
+St. Paul office and Telehealth
+Email:
+kacie.licsw@gmail.com
+Phone:
+612-616-9063
+Specialties:
+Anxiety
+Trauma
+Accelerated Resolution Therapy (ART)
+Who I help:
+Individuals, couples or families experiencing:
+Relational challenges
+Parenting challenges
+Grief
+Life transitions
+Kacie comes to the therapeutic relationship with authenticity and openness so clients feel at ease. She believes in the power of acknowledging the challenges everyone faces in a world that can demand so much of us, as well as seeing the inherent strengths one possesses. In Kacie’s work she seeks to both validate what is being experienced as well as be creative in supporting her clients. Kacie is passionate about helping couples, individuals, and families learn how to identify the roots of their challenges, communicate more clearly, and to live more from their centered self.
+Kacie’s clinical social work degree is from St. Thomas / St. Catherine University. During her clinical training she practiced Dialectical Behavioral Therapy (DBT) with groups and individuals. Some of the approaches she uses in her practice are Strengths-based Therapy, Cognitive Behavioral Therapy (CBT), Narrative Therapy, Mindfulness, Emotionally Focused Therapy, and is trained in Accelerated Resolution Therapy (ART).
+In her work she strives to be empathetic, intuitive, kind, and real. Kacie finds it one of her greatest honors to walk alongside individuals on their journey and provide a space where people can let down, be their truest selves, and build skills to face life’s challenges.
+Request an appointment with kacie
+Monica Kovach
+Monica is the Founder and Designer at Hold Space Creative. She's a former art therapist and coach, and uses her 10+ years of experience in marketing and design to help therapists and coaches connect with their best-fit clients online.
+https://www.holdspacecreative.com
+Previous
+Previous
+Alyssa Haggerty, MSW, LICSW
+Next
+Next
+Ana Lozano, MA, LPCC
+SERVICES
+Counseling
+Co
+aching
+Consultation
+Clinical Supervision
+Employee
+Assistance
+COMPANY
+Meet The Team
+Policies
+ONLINE THERAPY
+We provide HIPAA compliant telehealth to residents of Minnesota.
+LOCATION
+St. Paul
+CONTACT
+(763) 228-4752 tarale@intentionalselfcounseling.org
+RESOURCES
+Blog
+Frequently Asked Questions
+
+`;
